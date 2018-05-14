@@ -20,8 +20,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}
 	"TimePanelProgressBar"
@@ -44,8 +43,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}
 	"WaitingForPlayersLabel"
@@ -69,8 +67,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}			
 	"WaitingForPlayersBG"
@@ -89,8 +86,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}
 	"OvertimeLabel"
@@ -114,8 +110,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}			
 	"OvertimeBG"
@@ -134,8 +129,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}
 	"SuddenDeathLabel"
@@ -159,8 +153,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}			
 	"SuddenDeathBG"
@@ -179,8 +172,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}	
 	"SetupLabel"
@@ -204,8 +196,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}	
 	"SetupBG"
@@ -224,14 +215,13 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}	
 	"ServerTimeLimitLabel"
 	{
-		"ControlName" "CExLabel"
-		"fieldName" "ServerTimeLimitLabel"
+		"ControlName" 	"CExLabel"
+		"fieldName" 	"ServerTimeLimitLabel"
 		"xpos"			"30"
 		"ypos"			"12"
 		"zpos"			"5"
@@ -240,21 +230,22 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"%servertimeleft%"
-		"textAlignment"		"center"
+		"textAlignment"	"center"
 		"dulltext"		"0"
-		"brighttext"		"0"
+		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"m0refont10"
-		"fgcolor"			"255 255 255 255"
-		if_mvm
+		"fgcolor"		"255 255 255 255"
+		
+		if_match
 		{
-			"visible"		"0"
+			
 		}
 	}	 
 	"ServerTimeLimitLabelBG"
 	{
-		"ControlName" "ImagePanel"
-		"fieldName" "ServerTimeLimitLabelBG"
+		"ControlName" 	"ImagePanel"
+		"fieldName" 	"ServerTimeLimitLabelBG"
 		"xpos"			"31"
 		"ypos"			"13"
 		"zpos"			"1"
@@ -262,11 +253,12 @@
 		"tall"			"12"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"	"0 0 0 75"	
+		"fillcolor"		"0 0 0 75"	
 		"PaintBackgroundType"	"0"
-		if_mvm
+		
+		if_match
 		{
-			"visible"		"0"
+			"xpos"		"9999"
 		}
 	}	 
 }

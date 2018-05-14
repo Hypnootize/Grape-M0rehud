@@ -22,13 +22,13 @@
 		
 		if_match
 		{
-			"xpos"				"35"
-			"ypos"				"12"
+			"xpos"			"33"
+			"ypos"			"11"
 		}
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"m0refont16"
 			"fgcolor"		"255 255 255 255"
@@ -39,7 +39,7 @@
 			"tall"			"13"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 			
 			if_match
@@ -63,13 +63,13 @@
 		
 		if_match
 		{
-			"xpos"				"65"
-			"ypos"				"12"
+			"xpos"			"68"
+			"ypos"			"11"
 		}
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"m0refont16"
 			"fgcolor"		"255 255 255 255"
@@ -80,7 +80,7 @@
 			"tall"			"13"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 			
 			if_match
