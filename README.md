@@ -1,12 +1,7 @@
 # Grape-M0rehud
-Screenshots: https://imgur.com/a/8KYR6
 
-How to Download and Install: https://imgur.com/a/w3Ah6
+**[SCREENSHOTS ALBUM](https://imgur.com/a/8KYR6)** 
 
-Original Damage Color:
+**[INSTALLATION](https://imgur.com/a/w3Ah6)**
 
-hud_combattext_red 255
-
-hud_combattext_green 255
-
-hud_combattext_blue 255
+![](https://i.imgur.com/J4HhPWM.jpg)
