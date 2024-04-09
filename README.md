@@ -9,6 +9,7 @@
 
 ![Main Menu](../screenshots/01_Main_Menu.jpg)
 ![Health Buff](../screenshots/02_Health_Buff.jpg)
-![Health & Ammo Low](../screenshots/03_Health_Ammo_Low.jpg)
-![Scoreboard](../screenshots/04_Scoreboard.jpg)
-![Win & Damage](../screenshots/05_Win.jpg)
+![Health & Ammo Minmode](../screenshots/03_Health_Ammo_Minmode.jpg)
+![Health & Ammo Low](../screenshots/04_Health_Ammo_Low.jpg)
+![Scoreboard](../screenshots/05_Scoreboard.jpg)
+![Win & Damage](../screenshots/06_Win.jpg)
